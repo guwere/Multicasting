@@ -1,6 +1,6 @@
 Multicasting Chat Program
-authors: Madalin Druta
-        Antonio Nikolov
+authors: Madalin Druta,
+        Antonio Nikolov,
         Mark Whelan
 
 This program was part of an college project. The purpose of the project was to design a multicast chat system over LAN using java that can simulate dropped packets.
