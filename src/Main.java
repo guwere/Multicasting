@@ -13,6 +13,7 @@ public class Main {
         initialDialog();
     }
     public static void initialDialog(){
+        String strTest = "hello";
         final String [] labels = {"Your name:","Inet Address(IP):","Port:" };
         int numPairs = labels.length ;
 
